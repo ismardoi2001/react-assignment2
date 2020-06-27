@@ -7,7 +7,7 @@ function App(){
     <div className ="App">
     {/*<dinner></dinner>*/}
     <Dinner dishName ="Sahji" SweetDish="Kabab"/>
-    <Dinner   nnb  b  ="Sahji" SweetDish="Kabab"/>
+  
   
     <hr/>
     </div>
