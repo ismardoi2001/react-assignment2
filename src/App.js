@@ -6,9 +6,7 @@ function App(){
   return(
     <div className ="App">
     <Dinner dishName ="Sahji" SweetDish="Kabab"/>
-    <hr/>
-    <Dinner dishName ="Sahji" SweetDish="cool"/>
-  
+   
     <hr/>
     </div>
   );
